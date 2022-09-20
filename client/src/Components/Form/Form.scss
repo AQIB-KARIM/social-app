@@ -1,0 +1,32 @@
+.form_main{
+    background-color: #f2f2f2;
+    border-radius: 20px;
+    padding: 25px 20px;
+    form input{
+        margin-bottom: 20px;
+    }
+     form h4{
+        text-align: center;
+     }
+
+     form button {
+        width: 100%;
+        margin-bottom: 10px;
+     }
+
+     .submit_btn{
+        border-radius: 20px;
+        padding: 7px 20px;
+        background: rgb(67, 70, 241);
+        border: 1px solid rgb(67, 70, 241);;
+        color: white;
+     }
+
+     .reset_btn{
+        border-radius: 20px;
+        padding: 7px 20px;
+        background: rgb(206, 59, 59);
+        color: white;
+        border: 1px solid rgb(206, 59, 59);
+     }
+}
